@@ -100,8 +100,8 @@ __pycache__/
 
 ## 👨‍💻 Author
 
-**Charan Chintalacheruvu**
-🔗 [LinkedIn](https://www.linkedin.com/in/charan-chintalachervu)
+**Swaroop Rahul**
+🔗 [LinkedIn](https://www.linkedin.com/in/swaroop-rahul-koppuravuri)
 
 ---
 
